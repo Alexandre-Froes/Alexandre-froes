@@ -38,10 +38,10 @@
 <br/>
 
 <a href="https://github.com/Alexandre-froes" title="Perfil do Alexandre Froes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alexandre-froes&theme=dark&show_icons=true" />
+  <img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=alexandre-froes&hide=html&layout=compact&theme=default]" />
 </a>
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/alexandre-silva-froes-b92062267/))
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/alexandre-silva-froes-b92062267/)
 [![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alexandre.froes.2006@gmail.com)](mailto:alexandre.froes.2006@gmail.com)
